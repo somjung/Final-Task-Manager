@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "description": "Complete Week 12 Final Project Documentation",
+        "completed": false,
+        "tags": [
+            "study",
+            "final-project",
+            "urgent"
+        ],
+        "_type": "Task"
+    },
+    {
+        "id": 2,
+        "description": "Submit OOP Project Source Code to GitHub",
+        "completed": false,
+        "tags": [
+            "study",
+            "github"
+        ],
+        "due_date": "2026-09-30",
+        "_type": "DueDateTask"
+    },
+    {
+        "id": 3,
+        "description": "Prepare Slides for Final Project Presentation",
+        "completed": false,
+        "tags": [
+            "presentation",
+            "urgent"
+        ],
+        "priority": "High",
+        "_type": "PriorityTask"
+    },
+    {
+        "id": 4,
+        "description": "Review PEP 8 and Python Docstrings",
+        "completed": true,
+        "tags": [
+            "refactor",
+            "code-quality"
+        ],
+        "_type": "Task"
+    },
+    {
+        "id": 5,
+        "description": "Practice CLI Demo Script with Pre-seeded Data",
+        "completed": false,
+        "tags": [
+            "demo",
+            "presentation"
+        ],
+        "priority": "Medium",
+        "_type": "PriorityTask"
+    },
+    {
+        "id": 6,
+        "description": "Midterm Examination Review",
+        "completed": true,
+        "tags": [
+            "exam",
+            "study"
+        ],
+        "due_date": "2026-08-20",
+        "_type": "DueDateTask"
+    }
+]
